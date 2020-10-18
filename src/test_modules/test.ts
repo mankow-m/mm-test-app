@@ -1,5 +1,5 @@
 function testFunction() {
-    const toReturn = 'costam cos tam';
+    const toReturn = 'results';
     return toReturn;
 }
 
